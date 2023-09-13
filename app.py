@@ -1,5 +1,4 @@
 import streamlit as st
-!pip install nibabel
 import nibabel as nib
 import tempfile
 import numpy as np
